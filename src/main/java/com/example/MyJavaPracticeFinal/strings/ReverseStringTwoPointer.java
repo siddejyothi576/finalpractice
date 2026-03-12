@@ -4,7 +4,7 @@ public class ReverseStringTwoPointer {
 
     public static void main(String[] args) {
 
-        String s="hello";
+        String s="hello hi";
 
 
         String reverse =ReverseStringTwoPointer.reverseString(s);
