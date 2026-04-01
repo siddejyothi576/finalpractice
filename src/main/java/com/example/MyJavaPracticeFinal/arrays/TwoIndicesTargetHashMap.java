@@ -14,7 +14,6 @@ public class TwoIndicesTargetHashMap {
      * @param nums   The array of integers.
      * @param target The target sum.
      * @return An array containing the indices of the two numbers.
-     *
      */
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
